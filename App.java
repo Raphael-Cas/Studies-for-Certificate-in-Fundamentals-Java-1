@@ -37,6 +37,8 @@ public class App {
                 exibirQuantidadeFuncionarioPorCargo();
             }
 
+            Se alguem ver esqueci da 6 hahaah.
+       
         } while (opcao != 7);
     }
 
